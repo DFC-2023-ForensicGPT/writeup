@@ -56,7 +56,7 @@ We do not provide <strong>source codes</strong> and <strong>image files</strong>
 | 102 | <strong>[File Wiper](./writeup/[ForensicGPT][102].pdf)</strong> | Compatibility | 100 | Eungchang Lee |
 | 103 | <strong>[A suspicious developer](./writeup/[ForensicGPT][103].pdf)</strong> | PE, Build | 90 | Eungchang Lee |
 | 104 | <strong>[Fake Voice](./writeup/[ForensicGPT][104].pdf)</strong> | Frequency | 100 | Eungchang Lee |
-| 105 | <strong>[Blue Shark](./writeup/[ForensicGPT][105].pdf)</strong> | BLE, Bluetooth, Packet | 100 | Eungchang Lee |
+| 105 | <strong>[Blue Shark](./writeup/[ForensicGPT][105].pdf)</strong> | BLE, Bluetooth, Packet | 100 | Jinhyeok Son & Eungchang Lee |
 | 151 | <strong>[Android Live](./writeup/[ForensicGPT][151].pdf)</strong> | Mobile | 150 | Eungchang Lee |
 | 152 | <strong>[Find video and time info](./writeup/[ForensicGPT][152].pdf)</strong> | Media | 150 | Eungchang Lee |
 | 153 | <strong>[Partition Finder](./writeup/[ForensicGPT][153].pdf)</strong> | Partition, BR | 76 | Eungchang Lee |
@@ -68,7 +68,7 @@ We do not provide <strong>source codes</strong> and <strong>image files</strong>
 |----|----------|---------|-------|-------------|
 | 201 | <strong>[Log and Found](./writeup/[ForensicGPT][201].pdf)</strong> | User_Behavior | 200 | Eungchang Lee |
 | 202 | <strong>[Why isn't it playing?](./writeup/[ForensicGPT][202].pdf)</strong> | Video_recovery, RIFF | 200 | Eungchang Lee |
-| 251 | <strong>[Find the suspect](./writeup/[ForensicGPT][251].pdf)</strong> | Bruteforce, Multithread, Int64_t | 250 |  Hyunwoo Shin & Jinhyeok So & Donghyun Ha |
+| 251 | <strong>[Find the suspect](./writeup/[ForensicGPT][251].pdf)</strong> | Bruteforce, Multithread, Int64_t | 250 |  Hyunwoo Shin & Jinhyeok Son & Donghyun Ha |
 | 252 | <strong>[Password Stealer](./writeup/[ForensicGPT][252].pdf)</strong> | Python, Stealer | 250 | Jinhyeok Son & Eungchang Lee |
 | 253 | <strong>[Analysis Adventure!](./writeup/[ForensicGPT][253].pdf)</strong> | Malware, Artifact | 250 | Eungchang Lee |
 
