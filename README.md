@@ -1,4 +1,4 @@
-<p align='center'><img src="./res/ForensicGPT.png" height="256"></p>
+<p align='center'><img src="./res/forensicgpt.png" height="256"></p>
 
 <h1 align="center">ForensicGPT's WriteUp</a></h1>
 
@@ -41,7 +41,7 @@ To check the scores of more teams, access the [rank page](https://dfchallenge.or
 |🥈  | <strong>AFIRST</strong> | 4155 | Korea (South) |
 |🥉  | <strong>Boricha</strong> | 4105 | Korea (South) |
 |4   | <strong>dureuphanip</strong> | 3755 | Korea (South) |
-|5   | <strong>ISEGYE_IDOL</strong> | 3512 | Korea (South) |
+|5   | <strong>ForensicGPT</strong> | 3512 | Korea (South) |
 
 ## ⚔️ WriteUp
 
